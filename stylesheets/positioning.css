@@ -1,0 +1,144 @@
+.img-circle{
+    border-radius: 25px;
+    position: absolute;
+    top: 100px;
+    left: 320px;
+}
+
+.img-text{
+    position: absolute;
+    top: 120px;
+    left: 500px;
+}
+
+.linkedin{
+    position: absolute;;
+    top: 250px;
+    left: 350px;
+}
+
+.facebook{
+    position: absolute;;
+    top: 250px;
+    left: 500px;
+}
+
+.git{
+    position: absolute;
+    top: 250px;
+    left: 650px;
+}
+
+.contactAlign{
+    position: absolute;
+    top: 150px;
+    left: 350px;
+}
+
+.phone{
+    position: absolute;
+    top: 350px;
+    left: 350px;
+}
+
+.email{
+    position: absolute;
+    top: 400px;
+    left: 350px;
+}
+
+.education{
+    position: absolute;
+    top: 250px;
+    left: 350px;
+}
+
+.masters{
+    position: absolute;
+    top: 300px;
+    left: 350px;
+}
+
+.bachelors{
+    position: absolute;
+    top: 320px;
+    left: 350px;
+}
+
+.organizations{
+    position: absolute;
+    top: 370px;
+    left: 350px;
+}
+
+.tristar{
+    position: absolute;
+    top: 420px;
+    left: 350px;
+}
+
+.asu{
+    position: absolute;
+    top: 440px;
+    left: 350px;
+}
+
+.Skytouch{
+    position: absolute;
+    top: 460px;
+    left: 350px;
+}
+
+.Accenture{
+    position: absolute;
+    top: 480px;
+    left: 350px;
+}
+
+.achievements{
+    position: absolute;
+    top: 530px;
+    left: 350px;
+}
+
+.sdm{
+    position: absolute;
+    top: 580px;
+    left: 350px;
+}
+
+.stellar{
+    position: absolute;
+    top: 600px;
+    left: 350px;
+}
+
+.geoloc{
+    position: absolute;;
+    top: 150px;
+    left: 350px;
+}
+
+.fch{
+    position: absolute;;
+    top: 190px;
+    left: 350px;
+}
+
+.soa{
+    position: absolute;;
+    top: 230px;
+    left: 350px;
+}
+
+.dds{
+    position: absolute;;
+    top: 270px;
+    left: 350px;
+}
+
+.mean{
+    position: absolute;;
+    top: 310px;
+    left: 350px;
+}
